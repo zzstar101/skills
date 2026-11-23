@@ -1,0 +1,12 @@
+{
+  "cover": {
+    "course": "机器学习原理与应用",
+    "major": "请填写专业名称",
+    "class": "请填写班级名称",
+    "student_id": "请填写学号",
+    "name": "请填写姓名",
+    "teacher": "请填写指导教师"
+  },
+  "group": "单人组",
+  "output_pattern": "{student_id}-{name}-{exp_label}-《{exp_title}》实验报告.docx"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "zzstar101-skills",
+  "description": "Reusable AI agent skills for university coursework, data science labs, and automated report generation.",
+  "author": {
+    "name": "zzstar101",
+    "url": "https://github.com/zzstar101"
+  },
+  "homepage": "https://github.com/zzstar101/skills",
+  "repository": "https://github.com/zzstar101/skills"
+}
